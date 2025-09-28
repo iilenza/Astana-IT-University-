@@ -16,14 +16,23 @@
 
 DV_ASS2/
 ├─ datasets/ # Исходные CSV-файлы
+
 │ ├─ students_raw.csv
+
 │ ├─ grades_raw.csv
+
 │ ├─ enrollment_raw.csv
+
 │ └─ attendance.csv
+
 ├─ charts/ # Сохраненные графики
+
 ├─ exports/ # Экспортированные Excel файлы
+
 ├─ analytics.py # Основной скрипт анализа и визуализации
+
 └─ README.md
+
 
 ## Требования
 
